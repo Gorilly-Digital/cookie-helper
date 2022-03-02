@@ -2,6 +2,7 @@
   "name": "@gorilly/cookie-helper",
   "version": "0.1.0",
   "description": "",
+  "repository": "https://github.com/Gorilly-Digital/cookie-helper.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
